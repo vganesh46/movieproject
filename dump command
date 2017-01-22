@@ -1,0 +1,1 @@
+mongoexport -d movie_analysis_db -c movie_tweets -o movies.json
